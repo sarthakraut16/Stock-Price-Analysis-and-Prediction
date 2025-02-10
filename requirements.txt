@@ -7,3 +7,5 @@ datetime
 plotly
 pandas_ta
 dateutil
+statsmodels==0.13.5
+scikit-learn==1.1.2
