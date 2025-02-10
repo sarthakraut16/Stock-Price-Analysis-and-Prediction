@@ -1,11 +1,11 @@
 streamlit
 pandas
-matplotlib
+matplotlib==3.9.2
 seaborn
-yfinance
+yfinance==0.2.52
 datetime
 plotly
 statsmodels
 scikit-learn
-pandas_ta
+pandas_ta==0.3.14b0
 numpy==1.23.5
