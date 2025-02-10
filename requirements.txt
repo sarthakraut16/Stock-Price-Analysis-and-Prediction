@@ -8,4 +8,4 @@ plotly
 statsmodels
 scikit-learn
 pandas_ta
-numpy
+numpy==1.23.5
