@@ -14,7 +14,7 @@ st.markdown('<h1 style="color:#65FE08;">Stock Ticker List 💵</h1>', unsafe_all
 st.markdown("---")
 
 # Load the CSV file
-file_path = 'D:\\Stock Price Prediction\\EQUITY_L.csv'
+file_path = 'EQUITY_L.csv'
 ticker_list = pd.read_csv(file_path)
 
 # Select Relevant Columns
