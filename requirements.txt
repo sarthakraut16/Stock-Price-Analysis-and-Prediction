@@ -7,4 +7,3 @@ datetime
 plotly
 pandas_ta
 dateutil
-re
