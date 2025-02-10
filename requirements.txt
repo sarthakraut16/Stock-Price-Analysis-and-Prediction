@@ -8,3 +8,4 @@ plotly
 statsmodels
 scikit-learn
 pandas_ta
+numpy
